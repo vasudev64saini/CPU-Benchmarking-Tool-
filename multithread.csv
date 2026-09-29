@@ -1,0 +1,5 @@
+threads,ops_per_sec,duration_ms
+1 threads,1.57375e+09,12.7085
+2 threads,3.93364e+09,10.1687
+4 threads,7.82855e+09,10.219
+8 threads,1.57417e+10,10.1641

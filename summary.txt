@@ -1,0 +1,9 @@
+CPU Benchmark Summary
+=====================
+
+Integer Score:      754.004
+Float Score:        603.33
+Memory Score:       932.694
+Multi-thread Score: 3634.7
+Overall Score:      1623.82
+Rating:             Upper Mid-Range

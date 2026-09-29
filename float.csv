@@ -1,0 +1,4 @@
+name,ops_per_sec,duration_ms
+Float Add,3.7003e+08,81.0746
+Float Multiply,3.67097e+08,81.7222
+Float Divide,1.67868e+08,178.712

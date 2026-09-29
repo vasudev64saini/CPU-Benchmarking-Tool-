@@ -1,0 +1,4 @@
+name,ops_per_sec,duration_ms
+Integer Add,6.14245e+08,81.4007
+Integer Multiply,8.8338e+08,56.6008
+Integer Divide,7.64386e+08,65.412

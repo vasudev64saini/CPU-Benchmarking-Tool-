@@ -1,0 +1,5 @@
+test_name,ops_per_sec,duration_ms
+Size=32KB stride=1,6.1948e+08,0.6612
+Size=256KB stride=4,6.02087e+08,1.3606
+Size=2048KB stride=16,5.34569e+08,3.0649
+Size=32768KB stride=64,1.09252e+08,59.9859
